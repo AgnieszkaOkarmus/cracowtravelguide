@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CracowGuide</string>
+
+    <string name="category_museums">Museums</string>
+
+
+    <string name="category_places">Places</string>
+
+
+    <string name="category_park">Park</string>
+
+    <string name="category_eating">Street Food</string>
+
+
+
+</resources>
